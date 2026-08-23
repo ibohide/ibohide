@@ -1,32 +1,319 @@
-<h1 align="center">Hi 👋, I'm Ranchal Maurya</h1>
-<h3 align="center">AppSec & Mobile Developer | Building Apps, Breaking Bugs, Securing Code | Offensive → Defensive</h3>
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    RANCHAL MAURYA                            ║
+║              AppSec • Mobile • Development                   ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibohide&label=Profile%20views&color=0e75b6&style=flat" alt="ibohide" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Ranchal+Maurya;AppSec+%7C+Mobile+Developer;Building+Apps+%7C+Breaking+Bugs+%7C+Securing+Code;Learn+%E2%80%A2+Build+%E2%80%A2+Test+%E2%80%A2+Secure" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibohide" alt="ibohide" /></a> </p>
+<h3 align="center">
+  Security-minded Developer • AppSec • Mobile Development • Open Source
+</h3>
 
-<p align="left"> <a href="https://twitter.com/ci7_ranchal" target="blank"><img src="https://img.shields.io/twitter/follow/ci7_ranchal?logo=twitter&style=for-the-badge" alt="ci7_ranchal" /></a> </p>
-
-- 🔭 I’m currently working on **AppSec Tools • Pentesting Scripts • OWASP Projects**
-
-- 🌱 I’m currently learning **Burp Suite • Kali Linux • React Native • OWASP Top 10**
-
-- 💬 Ask me about **By The Busy Now 😊**
-
-- ⚡ Fun fact **I live in my own world of overthinking, where questions never stop. People come and go, some even hate me—but I'm still here, happy in my chaos. 😄 "Better to be alone with your thoughts than fake with the crowd.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ci7_ranchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ci7_ranchal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranchalofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranchalofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/ranchaleducation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranchaleducation" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ibohide">
+    <img src="https://komarev.com/ghpvc/?username=ibohide&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ibohide?tab=followers">
+    <img src="https://img.shields.io/github/followers/ibohide?label=Followers&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/ibohide?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ibohide?label=Stars&style=for-the-badge&logo=github&color=00ff41" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibohide&show_icons=true&locale=en&layout=compact" alt="ibohide" /></p>
+## `whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibohide&show_icons=true&locale=en" alt="ibohide" /></p>
+```bash
+$ whoami
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibohide&" alt="ibohide" /></p>
+Ranchal Maurya
+
+$ cat profile.txt
+
+NAME      : Ranchal Maurya
+FOCUS     : AppSec • Mobile Development • Web Development
+INTERESTS : Secure Coding • Automation • Open Source
+CURRENT   : Learning • Building • Testing
+STATUS    : ONLINE
+```
+
+I'm a developer interested in **application security, mobile development and software engineering**.
+
+I enjoy building applications, exploring how software works, finding weaknesses, improving code quality and learning new technologies.
+
+> **Build it. Understand it. Test it. Secure it.**
+
+---
+
+## ⚡ What I'm Working On
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🔭  AppSec Tools                                            │
+│  🔐  Security Testing Scripts                                │
+│  🛡️  OWASP Projects                                         │
+│  📱  Mobile Applications                                     │
+│  🌐  Web Projects                                           │
+│  🤖  Automation Experiments                                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Currently Learning
+
+`Burp Suite` · `Kali Linux` · `React Native` · `OWASP Top 10`
+
+---
+
+# 🧠 Security & Development Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Application%20Security-111111?style=for-the-badge&logo=datadog&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Secure%20Coding-111111?style=for-the-badge&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Mobile%20Development-111111?style=for-the-badge&logo=android&logoColor=00ff41" />
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,dart,js,ts,python,php,ruby" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,react,angular,vue,nodejs,express,mysql" />
+</p>
+
+### 📱 Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,reactnative" />
+</p>
+
+### 🔐 Security / Systems / Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ibohide&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"
+    height="180"
+    alt="Ranchal Maurya GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibohide&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ibohide&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ibohide&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ibohide&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 📦 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 AppSec Toolkit
+
+Security-oriented utilities and scripts for learning application security.
+
+**Focus:** AppSec · Automation · Security Testing
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Lab
+
+Experimental mobile applications and development projects.
+
+**Focus:** Android · Kotlin · Flutter · React Native
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Projects
+
+Web applications, experiments and developer tools.
+
+**Focus:** JavaScript · React · Node.js
+
+</td>
+
+<td width="50%">
+
+### 🧪 OWASP Lab
+
+Hands-on security learning projects inspired by OWASP concepts.
+
+**Focus:** OWASP · Secure Coding · Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Upcoming Projects
+
+```text
+[01] ████████████████████░░  AppSec Toolkit
+[02] █████████████████░░░░░  Mobile Security Lab
+[03] ███████████████░░░░░░░  Developer Security Tools
+[04] ████████████░░░░░░░░░░  OWASP Learning Projects
+[05] █████████░░░░░░░░░░░░░  Open Source Utilities
+```
+
+| Project                | Stage       | Main Focus           |
+| ---------------------- | ----------- | -------------------- |
+| 🔐 AppSec Toolkit      | 🟢 Building | Security Automation  |
+| 📱 Mobile Security Lab | 🟡 Planning | Mobile Security      |
+| 🧪 OWASP Projects      | 🟡 Active   | Application Security |
+| 🤖 Automation Tools    | 🔵 Research | Python / Scripts     |
+| 🌐 Developer Toolkit   | 🔵 Planning | Web Development      |
+
+---
+
+# 💻 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/ibohide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibohide&repo=YOUR_REPO_1&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/ibohide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibohide&repo=YOUR_REPO_2&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
+  </a>
+</p>
+
+> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ibohide">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
+
+<a href="https://twitter.com/ci7_ranchal">
+  <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" />
+</a>
+
+<a href="https://linkedin.com/in/ranchalofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+
+<a href="https://instagram.com/ranchaleducation">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+</a>
+
+</p>
+
+---
+
+# 🧩 Development Philosophy
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   CODE       →  BUILD                                       │
+│   BUILD      →  TEST                                        │
+│   TEST       →  BREAK                                       │
+│   BREAK      →  LEARN                                       │
+│   LEARN      →  SECURE                                      │
+│   SECURE     →  SHIP                                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> **"The goal isn't just to make software work.
+> The goal is to understand how it works — and make it better."**
+
+---
+
+# 📡 SYSTEM STATUS
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  RANCHAL MAURYA // DEV                      ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  SYSTEM          : ONLINE                                   ║
+║  DEVELOPMENT     : ACTIVE                                   ║
+║  SECURITY        : LEARNING                                 ║
+║  PROJECTS        : BUILDING                                 ║
+║  OPEN SOURCE     : EXPLORING                                ║
+║  CONTRIBUTIONS   : TRACKING                                 ║
+║  NEXT MISSION    : BUILD SOMETHING GREAT                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+
+### `⚡ BUILD • TEST • SECURE • REPEAT ⚡`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF41&height=120&section=footer" />
+
+</p>
